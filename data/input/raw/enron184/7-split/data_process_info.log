@@ -1,0 +1,31 @@
+Min ts 1980-01-01 05:00:00, max ts 2002-06-22 03:40:19
+Total time span: 8207 days
+Start date: 1980-01-01 05:00:00
+# slice1 Start Time: 1998-11-13 17:07:00
+# slice2 Start Time: 1998-11-24 15:23:00
+# slice3 Start Time: 1999-09-20 13:44:00
+# slice4 Start Time: 2000-07-14 05:15:00
+# slice5 Start Time: 2001-05-10 05:04:00
+# slice6 Start Time: 2002-03-06 17:52:56
+# nodes in slice0 count: 43
+# edges in slice0 count: 174
+Shape of temp matrix (184, 184)
+# nodes in slice1 count: 43
+# edges in slice1 count: 8
+Shape of temp matrix (184, 184)
+# nodes in slice2 count: 58
+# edges in slice2 count: 1370
+Shape of temp matrix (184, 184)
+# nodes in slice3 count: 120
+# edges in slice3 count: 15630
+Shape of temp matrix (184, 184)
+# nodes in slice4 count: 152
+# edges in slice4 count: 61545
+Shape of temp matrix (184, 184)
+# nodes in slice5 count: 184
+# edges in slice5 count: 45811
+Shape of temp matrix (184, 184)
+# nodes in slice6 count: 184
+# edges in slice6 count: 871
+Shape of temp matrix (184, 184)
+Total # nodes 184, max idx: max(all_nodes)

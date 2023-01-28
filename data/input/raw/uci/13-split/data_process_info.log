@@ -1,0 +1,55 @@
+Min ts 2004-04-15 13:56:01, max ts 2004-10-26 06:52:22
+Total time span: 193 days
+Start date: 2004-04-15 13:56:01
+# slice1 Start Time: 2004-04-30 14:08:03
+# slice2 Start Time: 2004-05-15 14:09:08
+# slice3 Start Time: 2004-05-30 15:29:43
+# slice4 Start Time: 2004-06-14 14:16:52
+# slice5 Start Time: 2004-06-29 14:43:33
+# slice6 Start Time: 2004-07-14 14:07:57
+# slice7 Start Time: 2004-07-29 14:17:36
+# slice8 Start Time: 2004-08-13 13:58:44
+# slice9 Start Time: 2004-08-28 15:10:43
+# slice10 Start Time: 2004-09-12 13:59:41
+# slice11 Start Time: 2004-09-27 14:08:40
+# slice12 Start Time: 2004-10-12 14:36:11
+# nodes in slice0 count: 505
+# edges in slice0 count: 4712
+Shape of temp matrix (1899, 1899)
+# nodes in slice1 count: 1086
+# edges in slice1 count: 17553
+Shape of temp matrix (1899, 1899)
+# nodes in slice2 count: 1506
+# edges in slice2 count: 19814
+Shape of temp matrix (1899, 1899)
+# nodes in slice3 count: 1698
+# edges in slice3 count: 7330
+Shape of temp matrix (1899, 1899)
+# nodes in slice4 count: 1727
+# edges in slice4 count: 824
+Shape of temp matrix (1899, 1899)
+# nodes in slice5 count: 1752
+# edges in slice5 count: 2499
+Shape of temp matrix (1899, 1899)
+# nodes in slice6 count: 1779
+# edges in slice6 count: 1276
+Shape of temp matrix (1899, 1899)
+# nodes in slice7 count: 1794
+# edges in slice7 count: 1150
+Shape of temp matrix (1899, 1899)
+# nodes in slice8 count: 1816
+# edges in slice8 count: 1379
+Shape of temp matrix (1899, 1899)
+# nodes in slice9 count: 1837
+# edges in slice9 count: 979
+Shape of temp matrix (1899, 1899)
+# nodes in slice10 count: 1872
+# edges in slice10 count: 1339
+Shape of temp matrix (1899, 1899)
+# nodes in slice11 count: 1890
+# edges in slice11 count: 626
+Shape of temp matrix (1899, 1899)
+# nodes in slice12 count: 1899
+# edges in slice12 count: 354
+Shape of temp matrix (1899, 1899)
+Total # nodes 1899, max idx: max(all_nodes)
